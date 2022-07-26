@@ -7,6 +7,7 @@
   - [hciconfig](#hciconfig)
   - [hcitool](#hcitool)
   - [spooftooph](#spooftooph)
+  - [sdptool](#sdptool)
 
 ### hardware
 
@@ -22,3 +23,5 @@ https://www.amazon.com/Panda-Bluetooth-4-0-Nano-Adapter/dp/B00BCU4TZE
 ### hcitool
 
 ### spooftooph
+
+### sdptool
